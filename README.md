@@ -1,9 +1,21 @@
 # 👋 Hello Friend !
 
-## 🧐 Who am I?
+## Who am I?
 I'm Parsa karimian , A man of persia ☀ .
 I'm an unnormal person that intrested in **security** and **Hacking** .I'm **Computer Engineering** student . Also pc gamer and love series  and music .
 
+## My belief :
+```c
+#include <hope.h>
+
+int main()
+{
+    while(work == intrest){
+        work_hard;
+    }
+return parsa_karimian;
+}
+```
 ---
 
 ## 💻 What can I do?
