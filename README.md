@@ -3,11 +3,11 @@
   <img src="https://github.com/zedparsa/ZedParsa/blob/main/Hello%20Friend.jpg" alt="GIF" width="1000" />
 </div>
 
-## Who am I?
+## 👾 Who am I?
 I'm Parsa karimian , A man of persia ☀ .
 I'm an unnormal person that intrested in **security** and **Hacking** .I'm **Computer Engineering** student . Also pc gamer and love series  and music .
 
-## My belief :
+## 👁 My belief :
 ```c
 #include <hope.h>
 
