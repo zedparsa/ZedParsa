@@ -44,5 +44,6 @@ return parsa_karimian;
 - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:parsaakarimian@gmail.com)
 
 ---
-
-![Kiiwik App GIF](https://cdn.dribbble.com/users/1304577/screenshots/4032985/kiiwik-app-_03.gif)
+<div align="center">
+  <img src="https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966" alt="GIF" width="1000" />
+</div>
