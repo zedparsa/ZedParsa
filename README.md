@@ -1,4 +1,7 @@
-# 👋 Hello Friend !
+
+<div align="center">
+  <img src="https://github.com/zedparsa/ZedParsa/blob/main/Hello%20Friend.jpg" alt="GIF" width="1000" />
+</div>
 
 ## Who am I?
 I'm Parsa karimian , A man of persia ☀ .
@@ -42,6 +45,4 @@ return parsa_karimian;
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="GIF" width="400" />
-</div>
+![Kiiwik App GIF](https://cdn.dribbble.com/users/1304577/screenshots/4032985/kiiwik-app-_03.gif)
