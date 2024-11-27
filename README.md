@@ -25,8 +25,8 @@ I'm an unnormal person that intrested in **security** and **Hacking** .I'm **Com
 ---
 
 ## 📫 How to reach me:
-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/parsaakarimian)
-- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:prkarimian.1382@gmail.com)
+- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/zedparsa)
+- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:parsaakarimian@gmail.com)
 
 ---
 
