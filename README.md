@@ -1,13 +1,14 @@
-# 👋 Hello Friend ! I'm Parsa karimian , A man of persia ☀
+# 👋 Hello Friend !
 
 ## 🧐 Who am I?
-I'm an unnormal person that intrested in **security**.
+I'm Parsa karimian , A man of persia ☀ .
+I'm an unnormal person that intrested in **security** and **Hacking** .I'm **Computer Engineering** student . Also pc gamer and love series  and music .
 
 ---
 
 ## 💻 What can I do?
 - ## 🚀 Programming Languages , 🤏 For now :
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
