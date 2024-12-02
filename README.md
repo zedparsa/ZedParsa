@@ -31,7 +31,7 @@ return parsa_karimian;
 
 ---
 
-## 🛡 Cybersecurity Skills that i learning :
+## 🛡 Cybersecurity Skills that I'm learning :
 ![Network+](https://img.shields.io/badge/-CompTIA%20Network+-00758F?logo=comptia&logoColor=white)
 ![Security+](https://img.shields.io/badge/-CompTIA%20Security+-F7931D?logo=comptia&logoColor=white)
 ![CEH](https://img.shields.io/badge/-Certified%20Ethical%20Hacker-000000?logo=hackthebox&logoColor=white)
