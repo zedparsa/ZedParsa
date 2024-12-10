@@ -5,7 +5,7 @@
 
 ## 👾 Who am I?
 I'm Parsa karimian , A man of persia ☀ .
-I'm an unnormal person that intrested in **security** and **Hacking** .I'm **Computer Engineering** student . Also pc gamer and love series  and music .
+I'm an unnormal person that intrested in **security** and **hacking**.
 
 ## 👁 My belief :
 ```c
