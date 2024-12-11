@@ -23,11 +23,9 @@ return parsa_karimian;
 
 ## 💻 What can I do?
 - ## 🚀 Programming Languages , 🤏 For now :
-- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![C++]([![image](https://github.com/user-attachments/assets/5117905b-3a88-405a-b07f-db75ea5d7d06](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fryuslash%2Fmode-icons%2Fissues%2F69&psig=AOvVaw1IqjEOB12Sm9Zwy6QCZOlV&ust=1734023151818000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKieheOZoIoDFQAAAAAdAAAAABAE))
-)
-)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="45" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" height="50">
+
+
 
 
 
