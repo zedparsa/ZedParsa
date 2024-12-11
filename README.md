@@ -24,7 +24,8 @@ return parsa_karimian;
 ## 💻 What can I do?
 - ## 🚀 Programming Languages , 🤏 For now :
 - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![C++](![image](https://github.com/user-attachments/assets/a2bffc8a-036b-464e-a9e1-a4e781aef091)
+)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 
