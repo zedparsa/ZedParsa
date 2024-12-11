@@ -36,6 +36,8 @@ return parsa_karimian;
 ![Security+](https://img.shields.io/badge/-CompTIA%20Security+-F7931D?logo=comptia&logoColor=white)
 ![CEH](https://img.shields.io/badge/-Certified%20Ethical%20Hacker-000000?logo=hackthebox&logoColor=white)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?logo=owasp&logoColor=white)
+![LPIC-1](https://img.shields.io/badge/-LPIC--1-4EAA25?logo=linux&logoColor=white)
+
 
 ---
 
