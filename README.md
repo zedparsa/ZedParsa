@@ -22,9 +22,10 @@ return parsa_karimian;
 ---
 
 ## 💻 What can I do?
-- ## 🚀 Programming Languages , 🤏 For now :
--  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="45" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" height="50">
-
+- ## 🚀 Programming Languages :
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="45" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" height="50">
+- ## 🐱‍💻 Cybersecurity skills :
+<img src="https://github.com/zedparsa/ZedParsa/blob/main/Network%20Plus.png?raw=true" alt="C Logo" width="75" height="80">
 
 
 
@@ -32,7 +33,6 @@ return parsa_karimian;
 ---
 
 ## 🛡 Cybersecurity Skills that I'm learning :
-![Network+](https://img.shields.io/badge/-CompTIA%20Network+-00758F?logo=comptia&logoColor=white)
 ![Security+](https://img.shields.io/badge/-CompTIA%20Security+-F7931D?logo=comptia&logoColor=white)
 ![CEH](https://img.shields.io/badge/-Certified%20Ethical%20Hacker-000000?logo=hackthebox&logoColor=white)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?logo=owasp&logoColor=white)
