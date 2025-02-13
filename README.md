@@ -25,19 +25,7 @@ return parsa_karimian;
 - ## 🚀 Programming Languages :
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="45" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" height="50">
 - ## 🐱‍💻 Cybersecurity skills :
-<img src="https://github.com/zedparsa/ZedParsa/blob/main/Network%20Plus.png?raw=true" alt="C Logo" width="75" height="80">
-
-
-
-
----
-
-## 🛡 Cybersecurity Skills that I'm learning :
-![Security+](https://img.shields.io/badge/-CompTIA%20Security+-F7931D?logo=comptia&logoColor=white)
-![CEH](https://img.shields.io/badge/-Certified%20Ethical%20Hacker-000000?logo=hackthebox&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?logo=owasp&logoColor=white)
-![LPIC-1](https://img.shields.io/badge/-LPIC--1-4EAA25?logo=linux&logoColor=white)
-
+<img src="https://github.com/zedparsa/ZedParsa/blob/main/network.png?raw=true" alt="C Logo" width="65" height="70"> <img src="https://github.com/zedparsa/ZedParsa/blob/main/LPI_LPIC1.png?raw=true" alt="C Logo" width="65" height="70">
 
 ---
 
