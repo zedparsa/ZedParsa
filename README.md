@@ -48,16 +48,10 @@ int main()
   <br/>
 
   <!-- Linux -->
-  <img src="https://img.shields.io/badge/Linux-1e1e1e?style=flat-square&logo=linux&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
   <img src="https://img.shields.io/badge/Bash-1e1e1e?style=flat-square&logo=gnubash&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
   <img src="https://img.shields.io/badge/LPIC-1e1e1e?style=flat-square&labelColor=0a3d62&color=0a3d62" />
+  <img src="https://img.shields.io/badge/PWK-1e1e1e?style=flat-square&logo=kalilinux&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
 
-  <br/>
-
-  <!-- Security -->
-  <img src="https://img.shields.io/badge/Kali%20Linux-1e1e1e?style=flat-square&logo=kalilinux&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-  <img src="https://img.shields.io/badge/Nmap-1e1e1e?style=flat-square&labelColor=0a3d62&color=0a3d62" />
-  
   <br/>
 
   <!-- Automation -->
