@@ -65,9 +65,6 @@ int main()
 <p align="center"><sub>█▓▒░░░░░░░░░░░░░░░░░░░░░░░▒▓█</sub></p>
 
 <!-- === ROW 2: Streak + Activity Graph === -->
-<p align="center">
-  <img width="880" src="https://streak-stats.demolab.com?user=ZedParsa&hide_border=true&background=1e1e1e&ring=60A3BC&fire=60A3BC&currStreakNum=60A3BC&sideNums=E0E0E0&currStreakLabel=60A3BC&sideLabels=E0E0E0&dates=AAAAAA" />
-</p>
 
 <p align="center">
   <img width="880" src="https://github-readme-activity-graph.vercel.app/graph?username=ZedParsa&bg_color=1e1e1e&color=60A3BC&line=60A3BC&point=60A3BC&area=true&hide_border=true" />
