@@ -36,33 +36,30 @@ int main()
 </p>
 <!-- Divider -->
 <p align="center"><sub>█▓▒░░░░░░░░░░░░░░░░░░░░░░░▒▓█</sub></p>
-<!-- === STACK === -->
-<div align="center">
-
-  <!-- Networking -->
-  <img src="https://img.shields.io/badge/Cisco%20IOS-1e1e1e?style=flat-square&logo=cisco&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-  <img src="https://img.shields.io/badge/Packet%20Tracer-1e1e1e?style=flat-square&logo=cisco&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-  <img src="https://img.shields.io/badge/GNS3-1e1e1e?style=flat-square&logo=gns3&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-  <img src="https://img.shields.io/badge/Wireshark-1e1e1e?style=flat-square&logo=wireshark&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-  
-  <br/>
-
-  <!-- Linux -->
-  <img src="https://img.shields.io/badge/Bash-1e1e1e?style=flat-square&logo=gnubash&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-  <img src="https://img.shields.io/badge/LPIC-1e1e1e?style=flat-square&labelColor=0a3d62&color=0a3d62" />
-  <img src="https://img.shields.io/badge/PWK-1e1e1e?style=flat-square&logo=kalilinux&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-
-  <br/>
-
-  <!-- Automation -->
-  <img src="https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-  <img src="https://img.shields.io/badge/Netmiko-1e1e1e?style=flat-square&labelColor=0a3d62&color=0a3d62" />
-  <img src="https://img.shields.io/badge/Ansible-1e1e1e?style=flat-square&logo=ansible&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-
-</div>
 
 <!-- Divider -->
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1500&pause=999999999&repeat=false&color=60A3BC&center=true&vCenter=true&width=700&height=60&lines=FEATURED+PROJECTS" 
+    alt="FEATURED PROJECTS"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ZedParsa/CCNA">
+    <img src="https://img.shields.io/badge/CCNA_Notes-1e1e1e?style=for-the-badge&logo=cisco&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
+  </a>
+  <a href="https://github.com/ZedParsa/Extra-Notes">
+    <img src="https://img.shields.io/badge/Extra_Notes-1e1e1e?style=for-the-badge&logo=readthedocs&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
+  </a>
+</p>
+
+
+
 <p align="center"><sub>█▓▒░░░░░░░░░░░░░░░░░░░░░░░▒▓█</sub></p>
+
+
 
 <!-- === ROW 2: Streak + Activity Graph === -->
 
