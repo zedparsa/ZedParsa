@@ -24,16 +24,11 @@ int main()
 
 <!-- === ROW 1: Stats + Focus (equal width, navy accents) === -->
 <p align="center">
-  <img width="430" src="https://github-readme-stats.vercel.app/api?username=ZedParsa&show_icons=true&include_all_commits=true&count_private=true&title_color=60A3BC&text_color=E0E0E0&icon_color=60A3BC&bg_color=1E1E1E&hide_border=true" />
 <br clear="both"/>
   <img width="430" src="https://img.shields.io/badge/FOCUS-Network%20%E2%86%92%20Linux%20%E2%86%92%20Security-1e1e1e?style=for-the-badge&labelColor=0a3d62&logo=kalilinux&logoColor=60A3BC&color=0a3d62" />
 </p>
 <!-- Roadmap -->
-<p align="center">
-  <img src="https://img.shields.io/badge/NOW-CCNA%20%7C%20LPIC--2-1e1e1e?style=flat-square&logo=cisco&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-  <img src="https://img.shields.io/badge/NEXT-CCNP%20%7C%20OffSec-1e1e1e?style=flat-square&logo=kalilinux&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-  <img src="https://img.shields.io/badge/SIDE-Python%20(Netmiko%2FAnsible)-1e1e1e?style=flat-square&logo=python&logoColor=60A3BC&labelColor=0a3d62&color=0a3d62" />
-</p>
+
 <!-- Divider -->
 <p align="center"><sub>█▓▒░░░░░░░░░░░░░░░░░░░░░░░▒▓█</sub></p>
 
